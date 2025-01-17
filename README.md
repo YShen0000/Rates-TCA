@@ -2,10 +2,10 @@
 Worked on three projects: tw/tw_r8fin/jefferies.
 
 Phase I
-Data Extraction
-Data Cleaning, Resizing
-Feature Engineering
-EDA
+- Data Extraction
+- Data Cleaning, Resizing
+- Feature Engineering
+- EDA
 
 Phase II
 OW/Reduced OW Model
