@@ -1,2 +1,12 @@
-# Blockhouse
-Feature Engineering, SOR, Price Impact Model, RL Model
+# Transaction Cost
+
+Phase I
+Feature Engineering
+EDA
+
+Phase II
+Cross/Price Impact Model
+
+Phase III
+Deep Learning
+RL Model
