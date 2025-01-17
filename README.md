@@ -8,15 +8,15 @@ Phase I
 - EDA
 
 Phase II
-OW/Reduced OW Model
-Cross/Price Impact Matrix
-Heatmaps
-VPIN (Informed/Uninformed Traders)
-Glosten-Milgram Model
+- OW/Reduced OW Model
+- Cross/Price Impact Matrix
+- Heatmaps
+- VPIN (Informed/Uninformed Traders)
+- Glosten-Milgram Model
 
 Phase III
-SOR
-Dealer Ranking System
-PnL Anlysis
-Deep Learning
-RL Model
+- SOR
+- Dealer Ranking System
+- PnL Anlysis
+- Deep Learning
+- RL Model
